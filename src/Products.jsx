@@ -46,7 +46,7 @@ export default function Products() {
     localStorage.clear();
     navigate('/login');
   };
-//yes haha
+//yes haha or smths
   return (
     <div style={{ maxWidth: 800, margin: '40px auto' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between' }}>
